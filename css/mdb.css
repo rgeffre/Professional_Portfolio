@@ -11733,7 +11733,7 @@ select {
   margin-top: 1.2rem; }
 
 .naked-card .price {
-  padding-top: 0rem; }
+  padding-top: 0; }
 
 .form-header {
   color: #fff;
@@ -11899,8 +11899,8 @@ section .contact {
 
 .developer .blockquote p {
   font-size: 0.9rem;
-  padding-top: 0rem;
-  padding-bottom: 0rem; }
+  padding-top: 0;
+  padding-bottom: 0; }
 
 .developer .blue {
   background-color: #4f66a7 !important; }
@@ -11975,8 +11975,6 @@ ul.skills-table li.list-group-item {
   text-transform: uppercase; }
 
 .icon-area .circle-icon {
-  display: block;
-  display: inline-block;
   font-size: 35px;
   padding-bottom: 30px; }
 
@@ -12027,9 +12025,11 @@ ul.skills-table li.list-group-item {
     left: 50%;
     margin-left: -35px;
     position: absolute;
-    width: 70px; }
+    width: 70px;  }
 
 .icon-area p {
   font-size: 15px;
   padding-top: 20px;
-  color: #6a6a6a; }
+  color: #6a6a6a;
+}
+
