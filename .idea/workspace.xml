@@ -6,16 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32a3f99d-c234-447f-be43-6b613e97218e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mockups/img (59).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mockups/img (63).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mockups/img (64).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mockups/img (65).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mockups/img (66).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mockups/img (67).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mockups/img (68).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mockups/img (69).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mockups/img (70).jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,39 +18,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.8284983">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="197" column="81" lean-forward="false" selection-start-line="197" selection-start-column="81" selection-end-line="197" selection-end-column="81" />
-                  <folding>
-                    <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="architect.html" pinned="false" current-in-tab="true">
-            <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Dev_Support/Code Templates and Snippets/MDB Big Bundle/MDB Portfolio/architect.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="146">
-                  <caret line="91" column="14" lean-forward="false" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2385">
+              <caret line="272" column="0" lean-forward="true" selection-start-line="272" selection-start-column="0" selection-end-line="272" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="goodindex.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goodindex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mdb.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/mdb.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-33505">
+              <caret line="9663" column="48" lean-forward="false" selection-start-line="9663" selection-start-column="48" selection-end-line="9663" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,6 +69,9 @@
         <option value="$PROJECT_DIR$/sass/mdb/portfolio/_general.scss" />
         <option value="$PROJECT_DIR$/js/modules (optional)/forms-free.js" />
         <option value="$PROJECT_DIR$/css/mdb.css" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Dev_Support/Code Templates and Snippets/MDB Big Bundle/MDB Portfolio/architect.html" />
+        <option value="$PROJECT_DIR$/goodindex.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -97,10 +94,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="57" />
-    <option name="y" value="22" />
-    <option name="width" value="1498" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="109" />
+    <option name="y" value="44" />
+    <option name="width" value="1616" />
     <option name="height" value="790" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -135,38 +132,7 @@
             <path>
               <item name="professional_portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="professional_portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="professional_portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="professional_portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="photos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="professional_portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="professional_portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="photos" type="462c0819:PsiDirectoryNode" />
-              <item name="horizontal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="professional_portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="professional_portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="photos" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="professional_portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="professional_portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="professional_portfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="professional_portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="modules (optional)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,6 +170,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img/Photos/Others" />
     </key>
@@ -328,15 +297,15 @@
       <workItem from="1509566154179" duration="677000" />
       <workItem from="1509567142028" duration="4164000" />
       <workItem from="1509584103393" duration="2161000" />
-      <workItem from="1509597019455" duration="4360000" />
+      <workItem from="1509597019455" duration="7001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28865000" />
+    <option name="totallyTimeSpent" value="31506000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="22" width="1498" height="790" extended-state="0" />
+    <frame x="109" y="44" width="1616" height="790" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -350,10 +319,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29640287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29640287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19505495" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18043202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Storybook" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -590,14 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/mdb.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144945">
-          <caret line="9663" column="48" lean-forward="false" selection-start-line="9663" selection-start-column="48" selection-end-line="9663" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/Photos/Horitzontal:Work:12-col/img (11).jpg" />
     <entry file="file://$PROJECT_DIR$/img/photos/horizontal/macbook.jpg">
       <provider selected="true" editor-type-id="images">
@@ -654,14 +615,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Dev_Support/Code Templates and Snippets/MDB Big Bundle/MDB Portfolio/architect.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="91" column="14" lean-forward="false" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/modules (optional)/forms-free.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -670,10 +623,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Dev_Support/Code Templates and Snippets/MDB Big Bundle/MDB Portfolio/architect.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="123" column="26" lean-forward="true" selection-start-line="123" selection-start-column="26" selection-end-line="123" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goodindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mdb.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33505">
+          <caret line="9663" column="48" lean-forward="false" selection-start-line="9663" selection-start-column="48" selection-end-line="9663" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="197" column="81" lean-forward="false" selection-start-line="197" selection-start-column="81" selection-end-line="197" selection-end-column="81" />
+        <state relative-caret-position="2385">
+          <caret line="272" column="0" lean-forward="true" selection-start-line="272" selection-start-column="0" selection-end-line="272" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
