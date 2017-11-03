@@ -436,7 +436,7 @@
 
                 <!--First column-->
                 <div class="col-md-8 mb-r">
-                    <form>
+                    <form action="https://formspree.io/renee.geffre@gmail.com">
                         <!--First row-->
                         <div class="row">
 
@@ -444,7 +444,7 @@
                             <div class="col-md-6">
                                 <div class="md-form">
                                     <div class="md-form">
-                                        <input type="text" id="form41" class="form-control">
+                                        <input type="text" name="your_name" id="form41" class="form-control">
                                         <label for="form41" class="">Your name</label>
                                     </div>
                                 </div>
@@ -453,7 +453,7 @@
                             <div class="col-md-6">
                                 <div class="md-form">
                                     <div class="md-form">
-                                        <input type="text" id="form52" class="form-control">
+                                        <input type="text" name="email" id="form52" class="form-control">
                                         <label for="form52" class="">Your email</label>
                                     </div>
                                 </div>
@@ -465,7 +465,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="md-form">
-                                    <input type="text" id="form51" class="form-control">
+                                    <input type="text" name="subject" id="form51" class="form-control">
                                     <label for="form51" class="">Subject</label>
                                 </div>
                             </div>
@@ -477,14 +477,14 @@
                             <!--First column-->
                             <div class="col-md-12">
                                 <div class="md-form">
-                                    <textarea type="text" id="form76" class="md-textarea"></textarea>
+                                    <textarea type="text" name="message" id="form76" class="md-textarea"></textarea>
                                     <label for="form76">Your message</label>
                                 </div>
                             </div>
                         </div>
                         <!--/.Third row-->
                     </form>
-                    <div class="center-on-small-only"> <a class="btn btn-primary">Send</a> </div>
+                    <div class="center-on-small-only"> <button type="submit" class="btn btn-primary">Send</button> </div>
                 </div>
                 <!--.First column-->
 
@@ -579,6 +579,7 @@
 <script type="text/javascript" src="js/mdb.min.js"></script>
 
 <script>
+
   // initialize scrollspy
   $('body').scrollspy({
     target: '.dotted-scrollspy'
